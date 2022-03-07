@@ -272,7 +272,7 @@ main {
 }
 
 .about .row .content p {
-	font-size: 1.5rem;
+	font-size: 1.6rem;
 	color: #ccc;
 	padding: 1rem 0;
 	line-height: 1.8;
@@ -392,7 +392,7 @@ main {
 }
 
 .reviews .box-container .box p {
-	font-size: 1.5rem;
+	font-size: 1.6rem;
 	line-height: 1.6;
 	color: #ccc;
 	padding: 2rem 0;
@@ -503,7 +503,7 @@ main {
 	padding: 0.7rem 2rem;
 	color: #fff;
 	border: var(--border);
-	font-size: 1.5rem;
+	font-size: 1.6rem;
 }
 
 .footer .links a:hover {
@@ -511,7 +511,7 @@ main {
 }
 
 .footer .credit {
-	font-size: 1.4rem;
+	font-size: 1.5rem;
 	font-weight: 300;
 	padding: 1.5rem;
 }
@@ -519,29 +519,6 @@ main {
 .footer .credit span {
 	color: var(--main-color);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -570,8 +547,6 @@ main {
 	section {
 		padding: 2rem;
 	}
-
-
 }
 
 
@@ -618,16 +593,13 @@ main {
 	}
 
 	.home .content p {
-		font-size: 1.5rem;
+		font-size: 1.8rem;
 	}
-
 }
-
 
 
 @media screen and (max-width: 450px) {
 	html {
-		font-size: 50%;
+		font-size: 52%;
 	}
-
 }
